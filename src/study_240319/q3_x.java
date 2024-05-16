@@ -2,7 +2,6 @@ package study_240319;
 
 import java.util.*;
 
-// 와 ㅅㅂ 드럽게 힘드네 몇분 걸렸냐 하
 public class q3_x {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
